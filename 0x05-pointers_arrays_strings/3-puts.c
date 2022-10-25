@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _puts - prints a new string followed by /n - stdout
+ * _puts - prints a new string
  * @str: the str
  * Dotmeister codes
  * Description: this should print a new code
- * Return: 0
+ * Return: the length of the string
  */
 
 void _puts(char *str);
