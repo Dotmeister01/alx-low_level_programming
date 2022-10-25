@@ -2,9 +2,9 @@
 
 /**
  * swap_int - a function that swaps the values of a and b integers
+ * By Dotmeister
  * @a: int first
  * @b: int second
- * Dotmeister codes
  * Return 0
  */
 
