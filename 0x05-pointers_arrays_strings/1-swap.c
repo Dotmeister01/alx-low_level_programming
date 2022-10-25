@@ -5,7 +5,7 @@
  * @a: int first
  * @b: int second
  * Dotmeister codes
- * Return: 0
+ * Return 0
  */
 
 void swap_int(int *a, int *b);
