@@ -1,6 +1,3 @@
-#include <stdlib>
-#include <stdio>
-
 /**
  * main - prints the name of the file
  *
